@@ -15,7 +15,10 @@ assignees: ''
 ```
 ## Tasks
 - [ ] 각자의 파일 생성하기
-- [ ] 100명의 죄수 문제 메인 펑션 구현하기
+- [ ] play_random 구현하기
+- [ ] play_optimal 구현하기
+- [ ] 100000 시행하는 main 구현하기
+
 ## References
 - [100명의 죄수 딜레마](https://en.wikipedia.org/wiki/100_prisoners_problem)
 - [코드레퍼런스]((https://rosettacode.org/wiki/100_prisoners#Python)

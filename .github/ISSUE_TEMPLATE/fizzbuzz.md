@@ -18,6 +18,9 @@ i가 15의 배수라면 ‘fizzbuzz’ 출력
 ```
 ## Tasks
 - [ ] 각자의 파일 생성하기
-- [ ] fizzbuzz 메인 펑션 구현하기
+- [ ] fizz
+- [ ] buzz
+- [ ] fizzbuzz
 ## References
-- [FizzBuzz 놀이](https://en.wikipedia.org/wiki/Fizz_buzz)
+- [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz)
+- [FizzBuzz(나무위키)](https://namu.wiki/w/FizzBuzz)
